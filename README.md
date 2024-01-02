@@ -53,10 +53,6 @@ python git-open [options] [remote] [branch]
    git-open --commit --print
    ```
 
-## Note
-
-This script assumes you have a working Git environment and the repository has a configured remote pointing to GitHub.
-
 ## License
 
 This script is released under the [MIT License](https://opensource.org/licenses/MIT).
